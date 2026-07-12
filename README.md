@@ -2,9 +2,10 @@
 
 An interactive Power BI report analysing **630 responses** from data professionals worldwide, covering salary, tools, job satisfaction, and how hard it really is to break into the field.
 
-![Dashboard](image.png)
 
----
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e94c2fe-9c4d-4039-86b1-3c17fb63482b" />
+
 
 ## The Question
 
