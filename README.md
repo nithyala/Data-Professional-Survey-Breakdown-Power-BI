@@ -4,7 +4,8 @@ An interactive Power BI report analysing **630 responses** from data professiona
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e94c2fe-9c4d-4039-86b1-3c17fb63482b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1890c59e-f36a-4314-896a-5d087347ddfe" />
+
 
 
 ## The Question
